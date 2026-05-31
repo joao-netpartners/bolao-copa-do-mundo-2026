@@ -1,0 +1,13 @@
+[project]
+name = "bolao-copa-do-mundo-2026"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "cloudscraper>=1.2.71",
+    "polars>=1.41.0",
+    "python-docx>=1.2.0",
+    "requests>=2.34.2",
+]
